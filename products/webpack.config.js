@@ -30,9 +30,6 @@ module.exports = {
 			
 		],
 	},
-	output: {
-		publicPath: `http://localhost:${DEV_PORT}/`,
-	},
 	devServer: {
 		port: DEV_PORT,
 		historyApiFallback: true,
