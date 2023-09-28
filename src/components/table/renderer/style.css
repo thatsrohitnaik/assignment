@@ -1,0 +1,14 @@
+.ag-custom-input {
+  width: 96%;
+  height: 39px;
+  background: transparent !important;
+  border: none !important;
+  margin: auto;
+}
+
+.ag-custom-input-focus:focus {
+  background-color: white !important;
+  border: 1px solid #bbbb !important;
+  margin: 2px;
+  width: 96%;
+}
